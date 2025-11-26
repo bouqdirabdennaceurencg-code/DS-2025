@@ -1,4 +1,7 @@
-# 📊 Rapport d'Analyse - College Placement Analysis
+Bouqdir Abdennaceur ![221a74a0-8b6b-4eff-b5d2-0ea3138a84d4](https://github.com/user-attachments/assets/5cc28473-a06c-43d0-866d-a2f955ec575f)
+
+
+# 📊Rapport d'Analyse - College Placement Analysis
 
 ## 📋 Table des matières
 
